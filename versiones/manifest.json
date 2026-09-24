@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "latest": "b52",
+  "notes": "The plugin updates itself: it checks the versions list, shows a card and installs after checking the file hash",
+  "updated_at": "2026-09-24T18:46:18Z",
+  "versions": [
+    {
+      "file": "b52/dotti-b52.zip",
+      "notes": "The plugin updates itself: it checks the versions list, shows a card and installs after checking the file hash",
+      "required": false,
+      "sha256": "2e4fe5f3ca29305eeaa55807348503a7368f7b8d9d62b63b0699bb43e52b6cea",
+      "size": 881250,
+      "version": "b52"
+    }
+  ]
+}
