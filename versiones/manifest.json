@@ -1,9 +1,17 @@
 {
   "format": 1,
-  "latest": "b52",
+  "latest": "b54",
   "notes": "The plugin updates itself: it checks the versions list, shows a card and installs after checking the file hash",
-  "updated_at": "2026-09-24T18:47:36Z",
+  "updated_at": "2026-09-25T00:55:54Z",
   "versions": [
+    {
+      "file": "b54/dotti-b54.zip",
+      "notes": "The plugin's texts travel sealed, opened by the native core (Windows and Android)",
+      "required": false,
+      "sha256": "d02fdcf814a97a29ab01080685722079202e15cef6c590aeb7a547fd981e3aed",
+      "size": 1154898,
+      "version": "b54"
+    },
     {
       "file": "b52/dotti-b52.zip",
       "notes": "The plugin updates itself: it checks the versions list, shows a card and installs after checking the file hash",
