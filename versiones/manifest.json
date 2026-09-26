@@ -1,40 +1,16 @@
 {
   "format": 1,
-  "latest": "1.001",
-  "notes": "The plugin updates itself: it checks the versions list, shows a card and installs after checking the file hash",
-  "updated_at": "2026-09-26T16:18:33Z",
+  "latest": "1.0",
+  "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
+  "updated_at": "2026-09-26T17:35:26Z",
   "versions": [
     {
-      "file": "1.001/dotti-1.001.zip",
-      "notes": "Sign in with GitHub, the gateway shows the verification URL instead of a raw error, and the build numbering moves to 1.001",
-      "required": false,
-      "sha256": "2e4fa284d961b261d76f7c67091d4938fb831490ee9d3ae8455fcbed2cc0fa9f",
-      "size": 1155670,
-      "version": "1.001"
-    },
-    {
-      "file": "b55/dotti-b55.zip",
-      "notes": "Sign in and go: Dotti talks to its own gateway, asks for the account before sending anything, and stops retrying what the gateway has already decided",
-      "required": false,
-      "sha256": "910d3827b97365255e3287b4dcd33bcde91e6974cc7a4453429926ee187f2a56",
-      "size": 1156895,
-      "version": "b55"
-    },
-    {
-      "file": "b54/dotti-b54.zip",
-      "notes": "The plugin's texts travel sealed, opened by the native core (Windows and Android)",
-      "required": false,
-      "sha256": "d02fdcf814a97a29ab01080685722079202e15cef6c590aeb7a547fd981e3aed",
-      "size": 1154898,
-      "version": "b54"
-    },
-    {
-      "file": "b52/dotti-b52.zip",
-      "notes": "The plugin updates itself: it checks the versions list, shows a card and installs after checking the file hash",
-      "required": false,
-      "sha256": "4060389a49d22573f082cee59557d3fb2c7b9846f7e1c92a28636cd6107f7f7f",
-      "size": 266269,
-      "version": "b52"
+      "file": "1.0/dotti-1.0.zip",
+      "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
+      "required": true,
+      "sha256": "f91881e7dd7440e105c0470681fdfa04b9470edd1a920242c590e11772f1a032",
+      "size": 1164550,
+      "version": "1.0"
     }
   ]
 }
