@@ -1,9 +1,25 @@
 {
   "format": 1,
-  "latest": "1.0",
+  "latest": "1.03",
   "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
-  "updated_at": "2026-09-26T17:35:26Z",
+  "updated_at": "2026-09-26T18:30:49Z",
   "versions": [
+    {
+      "file": "1.03/dotti-1.03.zip",
+      "notes": "The model card only shows what tells models apart: images, reasoning and web search",
+      "required": true,
+      "sha256": "6a777127eea939960d312ed8c116b556c8dfd275e208930b747386fe8fa249ab",
+      "size": 1165430,
+      "version": "1.03"
+    },
+    {
+      "file": "1.02/dotti-1.02.zip",
+      "notes": "Sign-in shows the device code again as a fallback for when the browser does not open",
+      "required": true,
+      "sha256": "f54e7f938fa8e5651b3c87c6b8bbd5f9c1daec0d7ee1b46b23f347303b88db9e",
+      "size": 1165451,
+      "version": "1.02"
+    },
     {
       "file": "1.0/dotti-1.0.zip",
       "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
