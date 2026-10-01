@@ -1,9 +1,17 @@
 {
   "format": 1,
-  "latest": "1.09",
+  "latest": "1.10",
   "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
-  "updated_at": "2026-10-01T17:51:30Z",
+  "updated_at": "2026-10-01T23:36:21Z",
   "versions": [
+    {
+      "file": "1.10/dotti-1.10.zip",
+      "notes": "Tool calls travel as calls, not as text, and one answer is painted once",
+      "required": true,
+      "sha256": "31db685176465f03d4692959fe5376e1ef85055ce4b11455c7c3d95378cf1b9b",
+      "size": 3593830,
+      "version": "1.10"
+    },
     {
       "file": "1.09/dotti-1.09.zip",
       "notes": "The model is listed under the name the server serves, so a rename reaches installs that already had it",
