@@ -1,9 +1,17 @@
 {
   "format": 1,
-  "latest": "1.08",
+  "latest": "1.09",
   "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
-  "updated_at": "2026-10-01T17:40:39Z",
+  "updated_at": "2026-10-01T17:51:30Z",
   "versions": [
+    {
+      "file": "1.09/dotti-1.09.zip",
+      "notes": "The model is listed under the name the server serves, so a rename reaches installs that already had it",
+      "required": true,
+      "sha256": "e54c6b170947b174b1a98699ab80719f72ebfec327afaee4be27834f385e26d7",
+      "size": 3596409,
+      "version": "1.09"
+    },
     {
       "file": "1.08/dotti-1.08.zip",
       "notes": "The model is qwen-3.8-27b on the Cerebras free tier, and the context compacts at 90 percent of the window",
