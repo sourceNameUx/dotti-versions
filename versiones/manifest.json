@@ -1,64 +1,16 @@
 {
   "format": 1,
-  "latest": "1.10",
-  "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
-  "updated_at": "2026-10-01T23:36:21Z",
+  "latest": "1.11",
+  "notes": "The build number now comes from the installed plugin, so the chat stops refusing the build it is already running",
+  "updated_at": "2026-10-02T00:46:18Z",
   "versions": [
     {
-      "file": "1.10/dotti-1.10.zip",
-      "notes": "Tool calls travel as calls, not as text, and one answer is painted once",
+      "file": "1.11/dotti-1.11.zip",
+      "notes": "The build number now comes from the installed plugin, so the chat stops refusing the build it is already running",
       "required": true,
-      "sha256": "31db685176465f03d4692959fe5376e1ef85055ce4b11455c7c3d95378cf1b9b",
-      "size": 3593830,
-      "version": "1.10"
-    },
-    {
-      "file": "1.09/dotti-1.09.zip",
-      "notes": "The model is listed under the name the server serves, so a rename reaches installs that already had it",
-      "required": true,
-      "sha256": "e54c6b170947b174b1a98699ab80719f72ebfec327afaee4be27834f385e26d7",
-      "size": 3596409,
-      "version": "1.09"
-    },
-    {
-      "file": "1.08/dotti-1.08.zip",
-      "notes": "The model is qwen-3.8-27b on the Cerebras free tier, and the context compacts at 90 percent of the window",
-      "required": true,
-      "sha256": "f5c1c07a5d3e7bb6be778b68898e3943613b5008965a88d736f0ad5c3b42ef2a",
-      "size": 3596821,
-      "version": "1.08"
-    },
-    {
-      "file": "1.04/dotti-1.04.zip",
-      "notes": "Fix production transport headers and stop retrying content-filter errors",
-      "required": true,
-      "sha256": "94a07a800ed35cfdd9b6ddb5748c008e70ca403552c65a819c90dc2541aacd9c",
-      "size": 1165590,
-      "version": "1.04"
-    },
-    {
-      "file": "1.03/dotti-1.03.zip",
-      "notes": "The model card only shows what tells models apart: images, reasoning and web search",
-      "required": true,
-      "sha256": "6a777127eea939960d312ed8c116b556c8dfd275e208930b747386fe8fa249ab",
-      "size": 1165430,
-      "version": "1.03"
-    },
-    {
-      "file": "1.02/dotti-1.02.zip",
-      "notes": "Sign-in shows the device code again as a fallback for when the browser does not open",
-      "required": true,
-      "sha256": "f54e7f938fa8e5651b3c87c6b8bbd5f9c1daec0d7ee1b46b23f347303b88db9e",
-      "size": 1165451,
-      "version": "1.02"
-    },
-    {
-      "file": "1.0/dotti-1.0.zip",
-      "notes": "The interface scales with the screen, and the chat refuses to work from a build that is not the latest published one",
-      "required": true,
-      "sha256": "f91881e7dd7440e105c0470681fdfa04b9470edd1a920242c590e11772f1a032",
-      "size": 1164550,
-      "version": "1.0"
+      "sha256": "95b36cd7028a8eca419d8cac5e49860e8d5b92700bc06819590ae444d4240444",
+      "size": 3596166,
+      "version": "1.11"
     }
   ]
 }
