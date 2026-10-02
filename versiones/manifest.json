@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.11",
-  "notes": "The build number now comes from the installed plugin, so the chat stops refusing the build it is already running",
-  "updated_at": "2026-10-02T00:46:18Z",
+  "latest": "1.12",
+  "notes": "Subagent steps now fold into a collapsible card that counts them, and the empty bubble a silent turn could leave behind is gone",
+  "updated_at": "2026-10-02T11:52:44Z",
   "versions": [
     {
-      "file": "1.11/dotti-1.11.zip",
-      "notes": "The build number now comes from the installed plugin, so the chat stops refusing the build it is already running",
+      "file": "1.12/dotti-1.12.zip",
+      "notes": "Subagent steps now fold into a collapsible card that counts them, and the empty bubble a silent turn could leave behind is gone",
       "required": true,
-      "sha256": "95b36cd7028a8eca419d8cac5e49860e8d5b92700bc06819590ae444d4240444",
-      "size": 3596166,
-      "version": "1.11"
+      "sha256": "c361d601e2321cf3d7aa2c6d6f8bac0f29c9a1948b44a6a936723d6c1c56fe89",
+      "size": 3597663,
+      "version": "1.12"
     }
   ]
 }
