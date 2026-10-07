@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.12",
-  "notes": "Subagent steps now fold into a collapsible card that counts them, and the empty bubble a silent turn could leave behind is gone",
-  "updated_at": "2026-10-02T11:52:44Z",
+  "latest": "1.13",
+  "notes": "Enable DeepSeek V4 Flash and route AgentRouter traffic through proxy bridge",
+  "updated_at": "2026-10-07T19:51:50Z",
   "versions": [
     {
-      "file": "1.12/dotti-1.12.zip",
-      "notes": "Subagent steps now fold into a collapsible card that counts them, and the empty bubble a silent turn could leave behind is gone",
+      "file": "1.13/dotti-1.13.zip",
+      "notes": "Enable DeepSeek V4 Flash and route AgentRouter traffic through proxy bridge",
       "required": true,
-      "sha256": "c361d601e2321cf3d7aa2c6d6f8bac0f29c9a1948b44a6a936723d6c1c56fe89",
-      "size": 3597663,
-      "version": "1.12"
+      "sha256": "a4f358d924e25f90d770f55ba27450df057209975c816e599417fe3041188286",
+      "size": 3597569,
+      "version": "1.13"
     }
   ]
 }
