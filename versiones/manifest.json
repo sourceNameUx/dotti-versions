@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.14",
-  "notes": "Subagent collapsible thread containment fix, clean model rates in settings, 64K output support",
-  "updated_at": "2026-10-07T20:36:54Z",
+  "latest": "1.15",
+  "notes": "Native engine updates and stability improvements",
+  "updated_at": "2026-10-07T20:50:24Z",
   "versions": [
     {
-      "file": "1.14/dotti-1.14.zip",
-      "notes": "Subagent collapsible thread containment fix, clean model rates in settings, 64K output support",
+      "file": "1.15/dotti-1.15.zip",
+      "notes": "Native engine updates and stability improvements",
       "required": true,
-      "sha256": "5e64c1e016f3053bb4619d5399ecf5b4085df0ec7b016e6f8c93e3e6490a5571",
-      "size": 3599576,
-      "version": "1.14"
+      "sha256": "ad5132b1a6b7314ba4e936a9337daa312fd70236ba1664b6a4a8527e4850940a",
+      "size": 3599109,
+      "version": "1.15"
     }
   ]
 }
