@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.13",
-  "notes": "Enable DeepSeek V4 Flash and route AgentRouter traffic through proxy bridge",
-  "updated_at": "2026-10-07T19:51:50Z",
+  "latest": "1.14",
+  "notes": "Subagent collapsible thread containment fix, clean model rates in settings, 64K output support",
+  "updated_at": "2026-10-07T20:36:54Z",
   "versions": [
     {
-      "file": "1.13/dotti-1.13.zip",
-      "notes": "Enable DeepSeek V4 Flash and route AgentRouter traffic through proxy bridge",
+      "file": "1.14/dotti-1.14.zip",
+      "notes": "Subagent collapsible thread containment fix, clean model rates in settings, 64K output support",
       "required": true,
-      "sha256": "a4f358d924e25f90d770f55ba27450df057209975c816e599417fe3041188286",
-      "size": 3597569,
-      "version": "1.13"
+      "sha256": "5e64c1e016f3053bb4619d5399ecf5b4085df0ec7b016e6f8c93e3e6490a5571",
+      "size": 3599576,
+      "version": "1.14"
     }
   ]
 }
