@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.15",
-  "notes": "Native engine updates and stability improvements",
-  "updated_at": "2026-10-07T20:50:24Z",
+  "latest": "1.18",
+  "notes": "The editor locks your script and scene tabs while the agent writes and gives them back when it finishes; the agent verifies the project and can run the game to report the errors it finds; Dotti looks for a new version every 15 minutes and finishing an install offers a Restart editor button.",
+  "updated_at": "2026-10-08T00:59:20Z",
   "versions": [
     {
-      "file": "1.15/dotti-1.15.zip",
-      "notes": "Native engine updates and stability improvements",
+      "file": "1.18/dotti-1.18.zip",
+      "notes": "The editor locks your script and scene tabs while the agent writes and gives them back when it finishes; the agent verifies the project and can run the game to report the errors it finds; Dotti looks for a new version every 15 minutes and finishing an install offers a Restart editor button.",
       "required": true,
-      "sha256": "ad5132b1a6b7314ba4e936a9337daa312fd70236ba1664b6a4a8527e4850940a",
-      "size": 3599109,
-      "version": "1.15"
+      "sha256": "81ea683d500378d5873818225a173b08294897020d9d8bdfa478c3ca71e7bb54",
+      "size": 3704803,
+      "version": "1.18"
     }
   ]
 }
