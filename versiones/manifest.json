@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.18",
-  "notes": "The editor locks your script and scene tabs while the agent writes and gives them back when it finishes; the agent verifies the project and can run the game to report the errors it finds; Dotti looks for a new version every 15 minutes and finishing an install offers a Restart editor button.",
-  "updated_at": "2026-10-08T00:59:20Z",
+  "latest": "1.19",
+  "notes": "An image you paste reaches the model now: reading or viewing one used to get the whole message refused. Long messages no longer freeze the editor, the panel lands first in the right column next to the Inspector and takes its width from your screen, and the question the agent asks scrolls the chat down to it.",
+  "updated_at": "2026-10-08T18:12:45Z",
   "versions": [
     {
-      "file": "1.18/dotti-1.18.zip",
-      "notes": "The editor locks your script and scene tabs while the agent writes and gives them back when it finishes; the agent verifies the project and can run the game to report the errors it finds; Dotti looks for a new version every 15 minutes and finishing an install offers a Restart editor button.",
+      "file": "1.19/dotti-1.19.zip",
+      "notes": "An image you paste reaches the model now: reading or viewing one used to get the whole message refused. Long messages no longer freeze the editor, the panel lands first in the right column next to the Inspector and takes its width from your screen, and the question the agent asks scrolls the chat down to it.",
       "required": true,
-      "sha256": "81ea683d500378d5873818225a173b08294897020d9d8bdfa478c3ca71e7bb54",
-      "size": 3704803,
-      "version": "1.18"
+      "sha256": "7e85d48fdf3f85443fc565718e69bf89a19891bdd22a30882f7172604bfef724",
+      "size": 7005788,
+      "version": "1.19"
     }
   ]
 }
