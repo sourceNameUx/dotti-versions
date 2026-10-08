@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.19",
-  "notes": "An image you paste reaches the model now: reading or viewing one used to get the whole message refused. Long messages no longer freeze the editor, the panel lands first in the right column next to the Inspector and takes its width from your screen, and the question the agent asks scrolls the chat down to it.",
-  "updated_at": "2026-10-08T18:12:45Z",
+  "latest": "1.20",
+  "notes": "The chat now lives in its own tab in the editor's top row, next to 2D, 3D, Script and Game, and opens across the whole width of the editor instead of squeezing into a side column; an image you paste reaches the model now, where reading or viewing one used to get the whole message refused.",
+  "updated_at": "2026-10-08T18:29:41Z",
   "versions": [
     {
-      "file": "1.19/dotti-1.19.zip",
-      "notes": "An image you paste reaches the model now: reading or viewing one used to get the whole message refused. Long messages no longer freeze the editor, the panel lands first in the right column next to the Inspector and takes its width from your screen, and the question the agent asks scrolls the chat down to it.",
+      "file": "1.20/dotti-1.20.zip",
+      "notes": "The chat now lives in its own tab in the editor's top row, next to 2D, 3D, Script and Game, and opens across the whole width of the editor instead of squeezing into a side column; an image you paste reaches the model now, where reading or viewing one used to get the whole message refused.",
       "required": true,
-      "sha256": "7e85d48fdf3f85443fc565718e69bf89a19891bdd22a30882f7172604bfef724",
-      "size": 7005788,
-      "version": "1.19"
+      "sha256": "cc5f1565c7c5b1e9215ab20b0b3e2767492c1112ee077f1d8eced538f5726413",
+      "size": 7004701,
+      "version": "1.20"
     }
   ]
 }
