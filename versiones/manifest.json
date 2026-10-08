@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "latest": "1.21",
-  "notes": "The Dotti chat lives in its own tab in the editor's top row, next to 2D, 3D, Script and Game, now with the editor's tools icon so it sits with its neighbours; it opens across the whole width of the editor, and an image you paste reaches the model instead of getting the message refused.",
-  "updated_at": "2026-10-08T18:47:37Z",
+  "latest": "1.22",
+  "notes": "Windows 32-bit and Android arm32 catch up with the rest: an image you paste reaches the model there too, where reading or viewing one used to get the whole message refused. The chat keeps its tab in the editor's top row, next to 2D, 3D, Script and Game, with the tools icon.",
+  "updated_at": "2026-10-08T19:11:55Z",
   "versions": [
     {
-      "file": "1.21/dotti-1.21.zip",
-      "notes": "The Dotti chat lives in its own tab in the editor's top row, next to 2D, 3D, Script and Game, now with the editor's tools icon so it sits with its neighbours; it opens across the whole width of the editor, and an image you paste reaches the model instead of getting the message refused.",
+      "file": "1.22/dotti-1.22.zip",
+      "notes": "Windows 32-bit and Android arm32 catch up with the rest: an image you paste reaches the model there too, where reading or viewing one used to get the whole message refused. The chat keeps its tab in the editor's top row, next to 2D, 3D, Script and Game, with the tools icon.",
       "required": true,
-      "sha256": "5546c8a0d252363b8bbc275762bdef773db425b70f56bdea702bbc6608e23256",
-      "size": 7004806,
-      "version": "1.21"
+      "sha256": "a69d155bc8fece1ecaee482dadab94e51c9b3a01ebf342554f214abb2c87b996",
+      "size": 7011039,
+      "version": "1.22"
     }
   ]
 }
